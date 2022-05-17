@@ -1,0 +1,88 @@
+body{
+    font-family: 'Berlin Sans FB','Trebuchet MS', Arial ;
+    border: 1px solid rgb(8, 141, 30);
+}
+.size30{
+    font-size: 30px;
+}
+.size20{
+    font-size: 20px;
+}
+.colorBlueGreen{
+    color:#284534;
+}
+.colorBluelight{
+    color:#1490D7;
+}
+.colorOrange{
+    color:#FF8000;
+}
+.colorWhite{
+    color: white;
+}
+.textCenter{
+    text-align: center;
+}
+.bg-colorGrenn3{
+   background-color:  rgb(8, 141, 30);
+}
+h2{
+ padding: 0px;  
+ margin: 30px 0px;
+ border-bottom: 1px solid #284534;
+}
+/*****
+**Header
+****/
+
+.header{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.itemSize{
+    width: 33%;
+}
+.itemSizeMid{
+    flex:auto;
+}
+.header .photoPerso img{
+    height: 200px;
+}
+
+/*****
+** Fin Header
+****/
+
+/*****
+**CORPS
+****/
+
+.corps{
+    padding:0% 2%;
+}
+.domaineCompetence table{
+   width: 100%; 
+}
+.domaineCompetence table td, .domaineCompetence table th{
+padding: 10px 20px;
+border: 1px solid #284534;
+width: 33%;
+}
+
+/*****
+** Fin Corps
+****/
+
+/*****
+**FOOTER
+****/
+.footer{
+    padding: 10px;
+    margin-top:50px ;
+}
+
+
+/*****
+** Fin Footer
+****/

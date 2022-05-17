@@ -1,0 +1,8 @@
+Découpe point par point du projet:
+
+Récuper le fichier à la main :  
+                                - Requete HTTP, sur l'api rest du client
+                                - Créer le fichier CSV et mettre le fichier à l'intérieur
+                                - Verifier la validité des données avec les expressions régulières
+                                - Renvoyer Ce fichier CSV, créer et validé au client: Configurer un 
+                                  email automatique et l'envoyer au client
